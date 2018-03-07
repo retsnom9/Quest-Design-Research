@@ -40,7 +40,7 @@ Instead of telling the main storyline, Side Quests help to explain, describe and
 ## Quest Design Pillars
 A quest **must...**
 
-**... be meaningful.** The player needs to feel connected to it in some way or another, and be engaged about it. They will invest their time on playing it, whether if it's for 5 minutes or 2 hours. We can not let them down by forcing them to go through something they do not enjoy in order to get to the better content later on.
+**... be meaningful.** The player needs to feel connected to it in some way or another, and be engaged about it. They will invest their time on playing it, whether if it's for 5 minutes or 2 hours. We can't let them down by forcing them into going through something they do not enjoy in order to get to the better content later on.
 
 **... convey a story.** It has to transmit a series of feelings and sensations, to make the previous mentioned connection easier, while narrating the facts that made that one village be what it is today, or explain what happened between these two brothers for them to be fighting to death.
 
