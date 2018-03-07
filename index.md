@@ -77,7 +77,7 @@ Once the concept is clear, you can start thinking what quest/s you will build ar
 As an example, main quests can just direct the player from one place to another. We always need to keep in mind that they will stumble across our content just by walking through the world we created, if it's wisely placed. There is no need to tell your player to kill 10 rats. Instead, hide it. Make them dive into the sewers, seeking for the villain's den, and they will be forced to fight rats as a result.
 
 ### Aspects to Keep in Mind in Main Quests
-**Story is king in main quests.** Always keep it in mind when designing them. Main Quests have to properly express to the player how their character (and, therefore, the story that surrounds them) changes during the transcurse of the game, and how that affects the entire scene.
+**Story is king in main quests.** Always keep it in mind when designing them. Main Quests have to properly express to the player how their character (and, therefore, the story that surrounds them) transforms during the transcurse of the game, and how that affects the entire scene.
 
 
 If you have a villain, do not use it to create quests. **Use your main character, or hero, instead.** Evaluate what scenarios you need in order to produce certain changes in your hero, and then how to use the villain to create those scenarios and draw the story to those Points of Interest, in a way that feels natural. This is why the villain is a powerful tool, and its proper use will tend to result in a stronger narrative.
