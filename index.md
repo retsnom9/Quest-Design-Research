@@ -63,7 +63,7 @@ First of all, you have to know what resources you dispose of. Depending on them 
 
 Once you and your team have clear what types of quests you will be creating, you can start making quest concepts. The best way to do so is by writing down a lot of them, and then filtering them carefully. Pay special attention to the first ones that come to mind, since they tend to be the most cliche ones.
 
-Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way. Here are two examples of initial quest concepts for _The Withcer 3_ done by CD Projekt RED game designers, shown in [Australia's 2015 PAX](https://youtu.be/N-bdlcnXBn8):
+Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way. Here are two examples of initial quest concepts for _The Withcer 3_ done by CD Projekt RED game designers, shown in [Australia's PAX 2015](https://youtu.be/N-bdlcnXBn8):
 
 _“A tower appeared out of nowhere - Geralt must find out why it happened and get rid of it.”_
 
