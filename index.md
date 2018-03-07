@@ -59,16 +59,23 @@ Quests can be casified in 4 different types:
 
 ## Quest Creation Process
 ### Concept Creation/Sketching
-First of all, you have to know the resources you dispose of. Depending on them (and your game), you can use a narrower quest system, which mostly uses, for example, kill and fetch quests, or a wider one, which can use puzzles, minigames or any other innovative method you can think of to solve missions.
+First of all, you have to know what resources you dispose of. Depending on them (and your game), you can use a narrower quest system, which mostly uses, for example, kill and fetch quests, or a wider one, which can use puzzles, minigames or any other innovative method you can think of in order to solve missions.
 
 Once that's clear, you can start creating quest concepts. The best way to do so is by making a lot of them, and then filtering them carefully. Pay special attention to the first ones that come to mind, since they tend to be the most clicheyish ones.
 
-Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way. Here are two examples of initial quest concepts done by CD Projekt RED game designers, shown in [Australia's 2015 PAX](https://youtu.be/N-bdlcnXBn8):
+Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way. Here are two examples of initial quest concepts for _The Withcer 3_ done by CD Projekt RED game designers, shown in [Australia's 2015 PAX](https://youtu.be/N-bdlcnXBn8):
 
 _“A tower appeared out of nowhere - Geralt must find out why it happened and get rid of it.”_
 _“A fake witcher is giving witchers bad name - Geralt can find out who he is and deal with him.”_
 
-As you can see, even if the concept is simple, it should already be interesting and express a clear and concise idea. This indicates that the quest has a lot of potential, and that it will be easy to expand later on.
+As you can see, even if the concept is simple, it should already be interesting and express a clear and concise idea. This indicates that the quest has potential, and that it will be easy to expand later on.
+
+### Aspects to Keep in Mind in Main Quests
+If you have a villain, do not use it to create quests. Use your main character, or hero, instead. Evaluate what scenarios you need in order to produce certain changes in your hero, and then how to use the villain to create those scenarios and draw the story to those Points of Interest, in a way that feels natural.
+
+### Aspects to Keep in Mind in Side Quests
+In most Side Quests, you should define well stated rewards. The player should know what they're getting after finishing your quest, so that they can estimate what the effort-payoff difference might be. If you do not state the rewards, or don't specify them a lot, you will be making an agreement with the player. If they enjoy your quest enough, or feel that the reward is fair, there generally won't be any complains. However, if they do not enjoy it, they will feel betrayed, since not only you didn't provide proper content, but you didn't provide an adequate reward to compensate for it either. This can affect their immersion, their initial perception in future quests and, most importantly, their general experience, so we must be really careful with that.
+
 
 ### Hiding Quest types
 Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests.
