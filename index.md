@@ -24,7 +24,7 @@ First things first, we need to define what a quest is. According to Wikipedia, _
 This means that we are able to turn any action our player can perform into a quest, as long as we reward them for it. This definition is not enough, though. In order to approach Quest Design properly, we need to be able to differenciate between _Main Quests_ and _Side Quests_.
 
 ### Main Quests vs Side Quests
-Most people tend to think that a Main Quest is simply a quest you must complete in order to advance through the game, and a Side Quest an optional mission that you can decide wether or not to fulfill, without it representing any major effect in the core gameplay itself.
+Most people tend to think that a Main Quest is simply a quest you must complete in order to advance through the game, and a Side Quest an optional mission that you can decide whether or not to fulfill, without it representing any major effect in the core gameplay itself.
 The problem with this conception is that if, for example, the storyline of a game bifurcates into distinct quest chains, and you choose the "A" option, it implies not playing a set of quests that you would have had to complete in order to progress through the game if you had decided otherwise.
 Similarly, there are some Side Quests that players must complete in order to level up or grind, making them not that "skippable" anymore.
 
