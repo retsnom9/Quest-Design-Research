@@ -7,6 +7,12 @@ Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs
 subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
+## Introduction
+-Quests are about action that is meaningful to a player on the level of ideas, personal ambitions, benefit to society and/or spiritual authenticity.  _Jeff Howard, Quests: Design, Theory, and History in Games and Narratives (2008)_
+-“Quests are this place in a video game where game design, gaming and technology all come together.” -Leszek Szczepanski.
+
+Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefuly, reinforce- players' feeling of immersion. Most games tend to have a poor approach to quest design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, however, normally have a noticable success because of it (e.g., _The Witcher 3_).
+
 ## Bibliography
 ### Articles
 ·[An Iterative Approach to Quest Design](https://www.gamasutra.com/blogs/NickWitsel/20170320/294081/An_Iterative_Approach_to_Quest_Design.php)
