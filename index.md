@@ -46,6 +46,19 @@ A quest **must...**
 
 **... be immersive.** The player is not listening to a story, nor reading one. They are intervening and taking part in it. They must feel as an important piece of the tale, that carries it on and changes the curse of it depending on their decisions. If the players think that they don't take any part in the quest's narration, they won't relate to it nor its characters, and we'll have failed on its design.
 
+## Quest Categories
+Quests can be casified in 4 different types:
+
+**Kill Quests:** the classical "kill 10 rats" kind of quest.
+
+**Fetch/Gather Quests:** "bring me 5 rat tails" kind of quest.
+
+**Delivery Quests:** bring a package from a Non-Playable Character (NPC) to another. Could be considered as a variant of fetch quests.
+
+**Escort Quests:** Protect an NPC on his way to X place.
+
+Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests.
+
 ## Bibliography
 ### Articles
 ·[An Iterative Approach to Quest Design](https://www.gamasutra.com/blogs/NickWitsel/20170320/294081/An_Iterative_Approach_to_Quest_Design.php)
