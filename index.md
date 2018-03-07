@@ -4,17 +4,28 @@
 ## Bibliography
 ### Articles
 ·[An Iterative Approach to Quest Design](https://www.gamasutra.com/blogs/NickWitsel/20170320/294081/An_Iterative_Approach_to_Quest_Design.php)
+
 ·[Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
+
 ·["We know you aren't stupid" - A Quest Design Masterclass From _CD Projekt RED_](https://www.pcgamesn.com/the-witcher-3-wild-hunt/the-witcher-quest-design-cd-projekt-masterclass)
+
 ·[What is a Quest Designer?](http://www.craigmakesgames.com/blog/2016/3/21/what-is-a-quest-designer)
+
 ·[Inside the Studio – Quest Design with Eric Porowski, Associate Director of Quest Design](https://assassinscreed.ubisoft.com/game/en-us/news/152-317977-16/inside-the-studio-quest-design-with-eric-porowski-associate-director-of-quest-design)
 
 ### Videos
 ·[Building Non-Linear Narratives in Horizon: Zero Dawn](https://youtu.be/ykPZcG8_mPU)
+
 ·[Life, Love and Quest Design. Anatomy of Quests in The Witcher 3: Wild Hunt](https://youtu.be/g5TH9KakBDw)
+
 ·[Designing Quests for The Elder Scrolls Online](https://youtu.be/RKBL_9_HaC4)
+
 ·[The Process of Quest Design On Witcher 3](https://youtu.be/N-bdlcnXBn8)
+
 ·[RPG Quest Design](https://youtu.be/YvBT1tjyE4Q)
+
 ·[Why Many MMOs Rely on Repetitive Grind Quests](https://youtu.be/otAkP5VjIv8)
+
 ·[How to Create Interesting MMO and RPG Quests](https://youtu.be/ur6GQp5mCYs)
+
 ·[How To Make Compiling Side Quests](https://www.youtube.com/watch?v=ecu2I2BBfCk)
