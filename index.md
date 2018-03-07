@@ -1,4 +1,6 @@
 # An Approach to Meaningful Quest Design.
+
+## About the author
 “I am [Genís Bayó](https://www.linkedin.com/in/genís-bayó-salgado-780308143/?locale=en_US), student of the
 [Bachelor’s Degree in
 Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
