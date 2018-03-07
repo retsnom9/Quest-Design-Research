@@ -55,7 +55,7 @@ Quests can be casified in 4 different types:
 
 **Delivery Quests:** bring a package from a Non-Playable Character (NPC) to another. Could be considered as a variant of fetch quests.
 
-**Escort Quests:** Protect an NPC on his way to X place.
+**Escort Quests:** Protect an NPC on their way to X place.
 
 ## Quest Creation Process
 ### Concept Creation/Sketching
