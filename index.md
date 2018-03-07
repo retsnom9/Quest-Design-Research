@@ -42,7 +42,7 @@ A quest **must...**
 
 **... be meaningful.** The player needs to feel connected to it in some way or another, and be engaged about it. They will invest their time on playing it, whether if it's for 5 minutes or 2 hours. We can't let them down by forcing them into going through something they do not enjoy in order to get to the better content later on.
 
-**... convey a story.** It has to transmit a series of feelings and sensations, to make the previously mentioned connection easier, while narrating the facts that made that one village be what it is today, or explain what happened between these two brothers for them to be fighting to death.
+**... convey a story.** It has to transmit a series of feelings and sensations, to make the previously mentioned connection easier, while narrating the facts that made that one village be what it is today, or explain what happened between these two brothers for them to be fighting to death now.
 
 **... be immersive.** The player is not listening to a story, nor reading one. They are intervening and taking part of it. They must feel as an important piece of the tale, that carries it on and changes the curse of it depending on their decisions. If the player thinks that they don't take any part on the quest's narration, they won't relate to it nor its characters, and we'll have failed on its design.
 
