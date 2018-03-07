@@ -13,7 +13,7 @@ _"Quests are about action that is meaningful to a player on the level of ideas, 
 
 _“Quests are this place in a video game where game design, gaming and technology all come together.”_   Jeszek Szczepanski - _Building Non-Linear Narratives in Horizon: Zero Dawn_ (GDC 2017).
 
-Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefully, reinforce- players' feeling of immersion. Most games tend to have a poor approach to Quest Design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
+Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefully, reinforce- players' feeling of immersion. An important amount of games tend to have a poor approach to Quest Design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
 
 In this article, we will go through what quests **are**, what quests **must be like** and what they must **transmit**. Even though the information is mostly focused around the RPG genre, this information can be useful to design quests for all kinds of games.
 
