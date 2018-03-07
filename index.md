@@ -37,7 +37,7 @@ Main Quests start at the early stages of the game, introducing the main story, a
 ### Definition of Side Quest
 Instead of telling the main storyline, Side Quests help to explain, describe and discover the world that surrounds the main character, as well as its inhabitants, while existing out of the main narrative arc.
 
-## Musts
+## Quest Design Pillars
 A quest **must...**
 
 **... be meaningful.** The player needs to feel connected to it in some way or another, and be engaged about it. They will invest their time on playing it, whether if it's for 5 minutes or 2 hours. We can not let them down by forcing them to go through something they do not enjoy in order to get to the better content later on.
