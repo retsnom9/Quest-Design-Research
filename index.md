@@ -14,12 +14,12 @@ _“Quests are this place in a video game where game design, gaming and technolo
 
 Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefuly, reinforce- players' feeling of immersion. Most games tend to have a poor approach to Quest Design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
 
-In this article, we will go through what quests *are*, what quests *must be like* and what they must *transmit*.
+In this article, we will go through what quests **are**, what quests **must be like** and what they must **transmit**.
 
 ## What is a quest?
 First things first, we need to define what a quest is. According to Wikipedia, _"A quest or mission is a task that a player-controlled character, "party", or group of characters may complete in order to gain a reward."_
 
-This means that we can turn any action our player can perform into a quest, as long as we reward them for it. This definition is not enough, though. In order to approach Quest Design properly, we need to be able to differenciate between _Main Quests_ and _Side Quests_.
+This means that we are able to turn any action our player can perform into a quest, as long as we reward them for it. This definition is not enough, though. In order to approach Quest Design properly, we need to be able to differenciate between _Main Quests_ and _Side Quests_.
 
 Most people tend to think that a Main Quest is simply a quest you must complete in order to advance through the game, and a Side Quest an optional mission that you can decide wether or not to fulfill, without it representing any major effect in the core gameplay itself.
 The problem with this conception is that if, for example, the storyline of a game bifurcates into distinct quest chains, and you choose the "A" option, it implies not playing a set of quests that you would have had to complete in order to progress through the game if you had decided otherwise.
