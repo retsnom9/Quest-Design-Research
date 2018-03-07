@@ -12,7 +12,7 @@ _"Quests are about action that is meaningful to a player on the level of ideas, 
 
 _“Quests are this place in a video game where game design, gaming and technology all come together.”_ Jeszek Szczepanski - _Building Non-Linear Narratives in Horizon: Zero Dawn_ (GDC 2017).
 
-Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefuly, reinforce- players' feeling of immersion. Most games tend to have a poor approach to Quest Design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
+Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefully, reinforce- players' feeling of immersion. Most games tend to have a poor approach to Quest Design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
 
 In this article, we will go through what quests **are**, what quests **must be like** and what they must **transmit**. Even though the information is mostly focused around the RPG genre, this information can be useful to design quests for all kinds of games.
 
@@ -34,6 +34,15 @@ Main Quests start at the early stages of the game, introducing the main story, a
 
 ### Definition of Side Quest
 Instead of telling the main storyline, Side Quests help to explain, describe and discover the world that surrounds the main character, as well as its inhabitants, while existing out of the main narrative arc.
+
+## Musts
+A quest **must...**
+
+**... be meaningful.** The player needs to feel connected to it in some way or another, and be engaged about it. They will invest their time on playing it, whether if it's for 5 minutes or 2 hours. We can not let them down by forcing them to go through something they do not enjoy in order to get to the better content later on.
+
+**... convey a story.** It has to transmit a series of feelings and sensations, to make the previous mentioned connection easier, while narrating the facts that made that one village be what it is today, or explain what happened between these two brothers for them to be fighting to death.
+
+**... be immersive.** The player is not listening to a story, nor reading one. They are intervening and taking part of it. They must feel as an important piece of the tale, that carries it on and changes the curse of it depending on their decisions. If the player thinks that they don't take any part on the quest's narration, they won't relate to it nor its characters, and we'll have failed on its design.
 
 ## Bibliography
 ### Articles
