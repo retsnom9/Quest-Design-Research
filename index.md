@@ -63,14 +63,15 @@ First of all, you have to know the resources you dispose of. Depending on them (
 
 Once that's clear, you can start creating quest concepts. The best way to do so is by making a lot of them, and then filtering them carefully. Pay special attention to the first ones that come to mind, since they tend to be the most clicheyish ones.
 
-### Hiding Quest types
-Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests. Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way. Here are two examples of initial quest concepts done by CD Projekt RED game designers, shown in [Australia's 2015 PAX](https://youtu.be/N-bdlcnXBn8):
+Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way. Here are two examples of initial quest concepts done by CD Projekt RED game designers, shown in [Australia's 2015 PAX](https://youtu.be/N-bdlcnXBn8):
 
 _“A tower appeared out of nowhere - Geralt must find out why it happened and get rid of it.”_
 _“A fake witcher is giving witchers bad name - Geralt can find out who he is and deal with him.”_
 
 As you can see, even if the concept is simple, it should already be interesting and express a clear and concise idea. This indicates that the quest has a lot of potential, and that it will be easy to expand later on.
 
+### Hiding Quest types
+Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests.
 
 ## Bibliography
 ### Articles
