@@ -100,6 +100,11 @@ _Figure 2. NosTale's screenshot. Entwell Co (2009)_
 
 **Be conciouis about timing.** You do not only need to be aware of where you are going to present your Side Quests, but also when. If the player is at one of the final in-game locations, and they have to go battle against the main boss in order to save the world from an inevitable destruction, you might not want to have an NPC asking for them to collect flowers. You also need to think about short termed quests. If, for instance, the player stumbles across a village that is being attacked by bandits, and one of the villagers asks them for help, the player will probably still be able to walk away and come back in-game weeks later, with the village conveniently still being attacked. To prevent this kind of nonsenses, you might want to consider making it a dungeon instead, or actually burning the village down if the player ignores it for too long, just so that they see that their decisions and actions truly matter.
 
+## Pacing & Tension
+### Pacing Graphs
+Now that we know what quest are and how they have to be, we can dig into how to make them **transmit** what we want them to.
+One of the best tools to ensure control over our player's feelings an emotions if done properly, is the pacing graph.
+
 ## Bibliography
 ### Articles
 ·[An Iterative Approach to Quest Design](https://www.gamasutra.com/blogs/NickWitsel/20170320/294081/An_Iterative_Approach_to_Quest_Design.php)
@@ -107,6 +112,8 @@ _Figure 2. NosTale's screenshot. Entwell Co (2009)_
 ·[Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
 
 ·["We know you aren't stupid" - A Quest Design Masterclass From _CD Projekt RED_](https://www.pcgamesn.com/the-witcher-3-wild-hunt/the-witcher-quest-design-cd-projekt-masterclass)
+
+·[_The Witcher 3_ Quest Design: How to Not Drown](http://ctrl500.com/game-design/the-witcher-3-quest-design-how-to-not-drown/)
 
 ·[What is a Quest Designer?](http://www.craigmakesgames.com/blog/2016/3/21/what-is-a-quest-designer)
 
@@ -127,4 +134,12 @@ _Figure 2. NosTale's screenshot. Entwell Co (2009)_
 
 ·[How to Create Interesting MMO and RPG Quests](https://youtu.be/ur6GQp5mCYs)
 
+·[Pacing - How Games Keep Things Exciting](https://youtu.be/5LScL4CWe5E)
+
 ·[How To Make Compiling Side Quests](https://www.youtube.com/watch?v=ecu2I2BBfCk)
+
+·[What makes a Great Quest? How Developers Make us Love and Hate their Quests](https://youtu.be/yN-aZ-RIJCg)
+
+·[Anatomy of a Side Quest: Beyond the Beef](https://youtu.be/yM1yR7WYqgM)
+
+·[The Dark Brotherhood of Oblivion Quest Design](https://youtu.be/tml_j0dtY7k)
