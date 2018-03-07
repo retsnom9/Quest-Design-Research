@@ -35,7 +35,7 @@ To expand on the matter, Main Quests normally tell the story of a character -who
 Main Quests start at the early stages of the game, introducing the main story, and develop it as the player progresses, showcasing it from beginning to end.
 
 ### Definition of Side Quest
-Instead of telling the main storyline, Side Quests help to explain, describe and discover the world that surrounds the main character, as well as its inhabitants, while existing out of the main narrative arc.
+Instead of narrating the main storyline, Side Quests help to explain, describe and discover the world that surrounds the main character, as well as its inhabitants, while existing out of the main narrative arc.
 
 ## Quest Design Pillars
 A quest **must...**
