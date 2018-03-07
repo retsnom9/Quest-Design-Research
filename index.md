@@ -71,15 +71,23 @@ _“A fake witcher is giving witchers bad name - Geralt can find out who he is a
 
 As you can see, even if the concept is simple, it should already be interesting and express a clear and concise idea. This indicates that the quest has potential, and that it will be easy to expand later on.
 
+### Hiding Quest types
+Once the concept is clear, you can start thinking what quest/s you will build around it, and their types. Avoid repeating yourself. Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests. Make the best out of your brain and imagination, and think about the content you want your player to experience.
+
+As an example, main quests can just direct the player from one place to another. We always need to keep in mind that they will stumble with our content just by walking through the world we created, if it's wisely placed. There is no need to tell your player to kill 10 rats. Instead, hide it. Make them dive into the sewers, seeking for the villain's den, and they will be forced to fight rats as a result.
+
 ### Aspects to Keep in Mind in Main Quests
-If you have a villain, do not use it to create quests. Use your main character, or hero, instead. Evaluate what scenarios you need in order to produce certain changes in your hero, and then how to use the villain to create those scenarios and draw the story to those Points of Interest, in a way that feels natural.
+Story is king in main quests. Always keep it in mind when designing them. Main Quests have to properly express to the player how their character (and, therefore, the story that surrounds them) changes during the transcurse of the game, and how that affects the entire scene.
+
+
+If you have a villain, do not use it to create quests. Use your main character, or hero, instead. Evaluate what scenarios you need in order to produce certain changes in your hero, and then how to use the villain to create those scenarios and draw the story to those Points of Interest, in a way that feels natural. This is why the villain is a powerful tool, and its proper use will tend to result in a stronger narrative.
 
 ### Aspects to Keep in Mind in Side Quests
 In most Side Quests, you should define well stated rewards. The player should know what they're getting after finishing your quest, so that they can estimate what the effort-payoff difference might be. If you do not state the rewards, or don't specify them a lot, you will be making an agreement with the player. If they enjoy your quest, and feel that the reward is fair, there won't be any complains. However, if they do not enjoy it, or if they consider the reward not valuable enough to compensate for their actions, they will feel betrayed, since not only they won't have been provided with proper content, but they won't have recieved an adequate reward to "compensate" for it either. This can affect their immersion, their initial perception in future quests and, most importantly, their general experience, so we must be really careful with that.
 
+Be open about quest givers. NPC's are not the only ones who can provide missions. A note on the floor, a ring dropped by a skeleton or even your main character driven by curiosity upon encountering a mysterious scenario can be perfect quest starters.
 
-### Hiding Quest types
-Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests.
+Don't assume players will only accept quests they are highly interested in. Due to a psychological aspect, named [endowment effect](https://en.wikipedia.org/wiki/Endowment_effect), which is highly related with [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion), humans give a considerable higher amount of value to things once they own them. After being proposed a mission
 
 ## Bibliography
 ### Articles
