@@ -102,16 +102,18 @@ _Figure 2. NosTale's screenshot. Entwell Co (2009)_
 
 ## Pacing & Tension
 Now that we know what quests are and how they have to be, we can dig into how to make them **transmit** what we want them to.
-One of the best tools to ensure control over our player's feelings and emotions, if used properly, is the pacing graph. Before explaining them, though, we need to know about tension.
+One of the best tools to ensure control over our player's feelings and emotions, if used properly, is the pacing graph. Pacing is used not only in Quest/Narrative Design, but also in Cinematographic Narrative and videogame Level Design. Before explaining it, though, we need to know about tension.
 
 ### Tension
-
+If we can control tension, we can control our player's perception and emotions. We want tension in our game to vary. It shouldn't be always increasing
 
 ### Pacing Graphs
 
 ## Bibliography
 ### Articles
 ·[An Iterative Approach to Quest Design](https://www.gamasutra.com/blogs/NickWitsel/20170320/294081/An_Iterative_Approach_to_Quest_Design.php)
+
+·[Beyond Pacing: Games Aren't Hollywood](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
 ·[Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
 
