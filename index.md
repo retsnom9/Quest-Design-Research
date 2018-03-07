@@ -59,9 +59,9 @@ Quests can be casified in 4 different types:
 
 ## Quest Creation Process
 ### Concept Creation/Sketching
-First of all, you have to know the resources you dispose of. Depending on them, you can use a narrower quest system, which mostly uses, for example, kill and fetch quests, or a wider one, which can use puzzles, minigames or any other innovative method you can think of to solve missions.
+First of all, you have to know the resources you dispose of. Depending on them (and your game), you can use a narrower quest system, which mostly uses, for example, kill and fetch quests, or a wider one, which can use puzzles, minigames or any other innovative method you can think of to solve missions.
 
-
+Once that's clear, you can start creating quest concepts. The best way to do it is by making a lot of them
 
 ### Hiding Quest types
 Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests.
