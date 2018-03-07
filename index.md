@@ -46,8 +46,8 @@ A quest **must...**
 
 **... be immersive.** The player is not listening to a story, nor reading one. They are intervening and taking part in it. They must feel as an important piece of the tale, that carries it on and changes the curse of it depending on their decisions. If the players think that they don't take any part in the quest's narration, they won't relate to it nor its characters, and we'll have failed on its design.
 
-## Quest Categories
-Quests can be casified in 4 different types:
+## Basic Quest Categories
+Quests can normally be casified in 4 different types:
 
 **Kill Quests:** the classical "kill 10 rats" kind of quest.
 
