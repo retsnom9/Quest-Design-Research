@@ -1,5 +1,5 @@
 # An Approach to Meaningful Quest Design.
-
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_1.jpg?raw=true" width = "1280" height = "720" alt="Error loading img"><br>
 _Figure 1. Dragon Quest XI's screenshot. Square Enix (2017)_
 ## About the author
 I am [Genís Bayó](https://www.linkedin.com/in/genís-bayó-salgado-780308143/?locale=en_US), student of the
