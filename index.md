@@ -57,6 +57,11 @@ Quests can be casified in 4 different types:
 
 **Escort Quests:** Protect an NPC on his way to X place.
 
+## Quest Creation Process
+### Concept Creation/Sketching
+First of all, you have to know your limits and the resources you dispose of. Depending on that, you can use a narrower quest system, which mostly uses, for example, kill and fetch quests, or a wider one, which can use puzzles, minigames or any innovative method you can think of.
+
+### Hiding Quest types
 Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests.
 
 ## Bibliography
