@@ -74,7 +74,7 @@ As you can see, even if the concept is simple, it should already be interesting 
 ### Hiding Quest types
 Once the concept is clear, you can start thinking what quest/s you will build around it, and their types. Avoid repeating yourself. Kill quests should only serve to teach the basic combat mechanics, if used at all. If they are not used carefully, they get repetitive and tedious. Same thing applies to fetch and delivery quests. Make the best out of your brain and imagination, and think about the content you want your player to experience.
 
-As an example, main quests can just direct the player from one place to another. We always need to keep in mind that they will stumble with our content just by walking through the world we created, if it's wisely placed. There is no need to tell your player to kill 10 rats. Instead, hide it. Make them dive into the sewers, seeking for the villain's den, and they will be forced to fight rats as a result.
+As an example, main quests can just direct the player from one place to another. We always need to keep in mind that they will stumble across our content just by walking through the world we created, if it's wisely placed. There is no need to tell your player to kill 10 rats. Instead, hide it. Make them dive into the sewers, seeking for the villain's den, and they will be forced to fight rats as a result.
 
 ### Aspects to Keep in Mind in Main Quests
 **Story is king in main quests.** Always keep it in mind when designing them. Main Quests have to properly express to the player how their character (and, therefore, the story that surrounds them) changes during the transcurse of the game, and how that affects the entire scene.
