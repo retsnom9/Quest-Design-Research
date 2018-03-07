@@ -101,9 +101,13 @@ _Figure 2. NosTale's screenshot. Entwell Co (2009)_
 **Be conciouis about timing.** You do not only need to be aware of where you are going to present your Side Quests, but also when. If the player is at one of the final in-game locations, and they have to go battle against the main boss in order to save the world from an inevitable destruction, you might not want to have an NPC asking for them to collect flowers. You also need to think about short termed quests. If, for instance, the player stumbles across a village that is being attacked by bandits, and one of the villagers asks them for help, the player will probably still be able to walk away and come back in-game weeks later, with the village conveniently still being attacked. To prevent this kind of nonsenses, you might want to consider making it a dungeon instead, or actually burning the village down if the player ignores it for too long, just so that they see that their decisions and actions truly matter.
 
 ## Pacing & Tension
+Now that we know what quests are and how they have to be, we can dig into how to make them **transmit** what we want them to.
+One of the best tools to ensure control over our player's feelings and emotions, if used properly, is the pacing graph. Before explaining them, though, we need to know about tension.
+
+### Tension
+
+
 ### Pacing Graphs
-Now that we know what quest are and how they have to be, we can dig into how to make them **transmit** what we want them to.
-One of the best tools to ensure control over our player's feelings an emotions if done properly, is the pacing graph.
 
 ## Bibliography
 ### Articles
