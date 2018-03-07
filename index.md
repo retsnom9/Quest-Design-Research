@@ -14,7 +14,7 @@ Jeff Howard, Quests: Design, Theory, and History in Games and Narratives (2008)
 _“Quests are this place in a video game where game design, gaming and technology all come together.”_
 Leszek Szczepanski, in _Building Non-Linear Narratives in Horizon: Zero Dawn_ (GDC 2017).
 
-Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefuly, reinforce- players' feeling of immersion. Most games tend to have a poor approach to quest design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, however, normally have a noticable success because of it (e.g., _The Witcher 3_).
+Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefuly, reinforce- players' feeling of immersion. Most games tend to have a poor approach to quest design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
 
 ## Bibliography
 ### Articles
