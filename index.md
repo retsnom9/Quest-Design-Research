@@ -82,12 +82,16 @@ Story is king in main quests. Always keep it in mind when designing them. Main Q
 
 If you have a villain, do not use it to create quests. Use your main character, or hero, instead. Evaluate what scenarios you need in order to produce certain changes in your hero, and then how to use the villain to create those scenarios and draw the story to those Points of Interest, in a way that feels natural. This is why the villain is a powerful tool, and its proper use will tend to result in a stronger narrative.
 
+If you want to branch a quest, without it modifying the whole story development, make the different paths meet at the next Point of Interest in some way. To make the player percieve their decision as meaningful, you can use further references to their choice of path later in the story, and even modify the ending of your game based on their choices. With that, we can avoid making incredibly complex story developement options, with mutliple and completely different branches, which can take a lot of time and resources we may or may not dispose of. This can also apply to Side Quests, but smaller Side Quests can have two or more distinct approaches at the same time, without having any point in common, while not requiring that big of a cost.
+
 ### Aspects to Keep in Mind in Side Quests
 In most Side Quests, you should define well stated rewards. The player should know what they're getting after finishing your quest, so that they can estimate what the effort-payoff difference might be. If you do not state the rewards, or don't specify them a lot, you will be making an agreement with the player. If they enjoy your quest, and feel that the reward is fair, there won't be any complains. However, if they do not enjoy it, or if they consider the reward not valuable enough to compensate for their actions, they will feel betrayed, since not only they won't have been provided with proper content, but they won't have recieved an adequate reward to "compensate" for it either. This can affect their immersion, their initial perception in future quests and, most importantly, their general experience, so we must be really careful with that.
 
 Be open about quest givers. NPC's are not the only ones who can provide missions. A note on the floor, a ring dropped by a skeleton or even your main character driven by curiosity upon encountering a mysterious scenario can be perfect quest starters.
 
-Don't assume players will only accept quests they are highly interested in. Due to a psychological aspect, named [endowment effect](https://en.wikipedia.org/wiki/Endowment_effect), which is highly related with [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion), humans give a considerable higher amount of value to things once they own them. After being proposed a mission
+Don't assume players will only accept quests they are highly interested in. Due to a psychological aspect, named [Endowment Effect](https://en.wikipedia.org/wiki/Endowment_effect), which is highly related with our [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion), humans give a considerably higher amount of value to things once they own them. After being presented with a mission, our brain will associate it with ownership, and we will be hesitant towards not accepting it. This might seem needless to say, but keeping this in mind, try to make every quest appealing and interesting for any player.
+
+Consider creating opposing quests.
 
 ## Bibliography
 ### Articles
