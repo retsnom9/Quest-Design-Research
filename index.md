@@ -18,7 +18,7 @@ Whether they are a minor feature of a game or a vital one, quests must be proper
 In this article, we will go through what quests **are**, what quests **must be like** and what they must **transmit**. Even though the information is mostly focused around the RPG genre, this information can be useful to design quests for all kinds of games.
 
 ## What is a quest?
-### Definition
+### Definition of Quest
 First things first, we need to define what a quest is. According to Wikipedia, _"A quest or mission is a task that a player-controlled character, "party", or group of characters may complete in order to gain a reward."_
 
 This means that we are able to turn any action our player can perform into a quest, as long as we reward them for it. This definition is not enough, though. In order to approach Quest Design properly, we need to be able to differenciate between _Main Quests_ and _Side Quests_.
