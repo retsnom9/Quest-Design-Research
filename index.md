@@ -131,8 +131,21 @@ It's important to note, however, that **we are making games, not films.** In a f
 Last but not least, we can add tension by making the player guess aspects from our story. If they try to deduce what our characters are going to do, or what they did in the past, they will feel much more involved and immersed in the story. Nevertheless, if our story developement is too obvious, and players can correctly guess what is going to happen every time, the story won't be interesting to them anymore and immersion will be broken.
 
 ### Pacing Graphs
+We will now see how Pacing Graphs can be made step by step.
 
+First of all, we need to choose a series of events that will represent the most important parts of our quest.
 
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_6.jpg?raw=true" alt="Error loading img"><br>
+
+We then make a graph that represents tension through time, and position our events accordingly
+
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_7.jpg?raw=true" alt="Error loading img"><br>
+
+Last but not least, we decide what gameplay mechanic will be mainly featured in each one of the events, and assing a color to each one. This helps us visualize the variety of actions, since if we make our player enter in combat way too often, for example, they won't perceive the events as separated ones.
+
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_8.jpg?raw=true" alt="Error loading img"><br>
+
+For more information about Pacing Graphs in Quest Design, click [here](https://youtu.be/g5TH9KakBDw)
 
 ## Bibliography
 ### Articles
