@@ -136,14 +136,17 @@ We will now see how Pacing Graphs can be made step by step.
 First of all, we need to choose a series of events that will represent the most important parts of our quest.
 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_6.png?raw=true" alt="Error loading img"><br>
+_Figure 6. Pacing Graph Example 1_
 
 We then make a graph that represents tension through time, and position our events accordingly
 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_7.jpg?raw=true" alt="Error loading img"><br>
+_Figure 7. Pacing Graph Example 2_
 
 Last but not least, we decide what gameplay mechanic will be mainly featured in each one of the events, and assing a color to each one. This helps us visualize the variety of actions, since if we make our player enter in combat way too often, for example, they won't perceive the events as separated ones.
 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_8.jpg?raw=true" alt="Error loading img"><br>
+_Figure 8. Pacing Graph Example 3_
 
 For more information about Pacing Graphs in Quest Design, click [here](https://youtu.be/g5TH9KakBDw)
 
@@ -158,13 +161,26 @@ Our hero just came back from a journey, and finds out his wife is terribly ill. 
 The Pace Graph would roughly look like this:
 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_9.jpg?raw=true" alt="Error loading img"><br>
+_Figure 9. Pacing Graph Example 4_
 
 Just to exemplify it, if we wanted to add choices to our quest, let's say we let our player choose whether to reconciliate with the protagonist's friend or not, but still get to an overcome where he sacrifices himself and shows his good intentions, it would look like this:
 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_10.jpg?raw=true" alt="Error loading img"><br>
+_Figure 10. Pacing Graph Example 5_
 
 ## MMORPGs
 _“Most MMO quests are used to direct the player through the experience rather than being engaging by themselves.”_ Daniel Floyd, from [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - [Why Many MMOs Rely on Repetitive Grind Quests](https://youtu.be/otAkP5VjIv8).
+
+When approaching Quest Design for MMORPGs, we have to keep something in mind: a big part of the playerbase is not there for questing content.
+
+What makes MMOs special is their huge variety of content; and quests are only one of their many features. Furthermore, when players level up character for the second time, they will already have experienced most of the available missions, so they won't be as interested anymore. Here are two approaches to encourage questing in MMORPGs:
+
+**Limiting the amount of quests a player can carry** (e.g., the main quest, 1 big side quest, and 3 minor side quests). By doing that, you are forcing players to take decisions, and therefore choose the quests they like the most, which allows them to start being involved in them. Moreover, when they level up another character, they will most likely try different quests, maybe resulting in a completely different experience.
+
+**Separating the world in multiple zones.** _World of Warcraft_ does that beautifully. Since we are talking about multiplayer games, we can't modify the world that surrounds a level 6 character just because a level 110 one just defeated the final boss of the expansion; unless we make different zones, that is. There is only so much you can modify from the "base world", but you can do whatever you want with dungeons, instances and other higher level continents or worlds. Since our intentions are not to make our player feel like a hero, but rather be one, big and relevant changes in the huge world that surrounds them are some of the best rewards we can provide them.
+
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_1.jpg?raw=true" alt="Error loading img"><br>
+_Figure 11. World of Warcraft: Warlords of Draenor's screenshot. Blizzard (2004)_
 
 _"At the end of the day our goal is for the player to remain immersed in their world. Comprehensible motivations, people leading their own lives, decisions bearing consequences and of course gripping stories are the most important tools of a Quest Designer to reach that goal."_ Philipp Weber - Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_ (2014).
 
