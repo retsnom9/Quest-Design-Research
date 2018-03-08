@@ -182,7 +182,7 @@ What makes MMOs special is their huge variety of content; and quests are only on
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_11.jpg?raw=true" alt="Error loading img"><br>
 _Figure 11. World of Warcraft: Warlords of Draenor's screenshot. Blizzard (2004)_
 
-_"At the end of the day our goal is for the player to remain immersed in their world. Comprehensible motivations, people leading their own lives, decisions bearing consequences and of course gripping stories are the most important tools of a Quest Designer to reach that goal."_ Philipp Weber - Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_ (2014).
+_"At the end of the day our goal is for the player to remain immersed in their world. Comprehensible motivations, people leading their own lives, decisions bearing consequences and of course gripping stories are the most important tools of a Quest Designer to reach that goal."_ Philipp Weber - Making Games Classics: Quest Design in _The Witcher 3: Wild Hunt_ (2014).
 
 ## Bibliography
 ### Articles
@@ -190,7 +190,7 @@ _"At the end of the day our goal is for the player to remain immersed in their w
 
 ·[Beyond Pacing: Games Aren't Hollywood](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
-·[Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
+·[Making Games Classics: Quest Design in _The Witcher 3: Wild Hunt_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
 
 ·["We know you aren't stupid" - A Quest Design Masterclass From _CD Projekt RED_](https://www.pcgamesn.com/the-witcher-3-wild-hunt/the-witcher-quest-design-cd-projekt-masterclass)
 
