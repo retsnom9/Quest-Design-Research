@@ -135,7 +135,7 @@ We will now see how Pacing Graphs can be made step by step.
 
 First of all, we need to choose a series of events that will represent the most important parts of our quest.
 
-<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_6.jpg?raw=true" alt="Error loading img"><br>
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_6.png?raw=true" alt="Error loading img"><br>
 
 We then make a graph that represents tension through time, and position our events accordingly
 
