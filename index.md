@@ -153,7 +153,7 @@ For more information about Pacing Graphs in Quest Design, click [here](https://y
 ## Example of a Quest
 Let's make an example. We'll follow the concept below:
 
-"Our hero's wife dies, but resurgates as a ghost. - The hero has to fight against her while overcoming his wounds from an old friendship."
+"Our hero's wife dies, but resurfaces as a ghost. - The hero has to fight against her while overcoming his wounds from an old friendship."
 
 Let's make the following plot:
 Our hero just came back from a journey, and finds out his wife is terribly ill. They have a talk, and the tension, which started pretty high, eases. The wife then mentions that our hero's old friend, the one who he sees as a betrayer, had paid her a visit. The tension increases. Shortly after, his wife dies, which gets us to our first peak. After that, a burial is celebrated, where the player gets relaxed... until the old friend appears, that is. The main character gets into a short fight with his friend, but it derivates into an apology, since his friend didn't intend to betray him, but to protect his family from a curse. After reconciliating, we reach the highest peak. The hero's wife was cursed, and she turns into a ghost he and his friend have to kill. Thanks to this tension roller coaster, our player will be emotionally tired at this point, and if we add in a sad overcome, we will catch them off guard, and they will probably react accordingly. The hero's friend will sacrifice himself to release the wife from her curse, so that our hero doesn't have to suffer the agony of murdering his already dead wife.
