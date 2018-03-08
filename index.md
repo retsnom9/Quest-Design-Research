@@ -31,7 +31,7 @@ Similarly, there are some Side Quests that players must complete in order to lev
 ### Definition of Main Quest
 According to Dean Razavi, Game Designer for Razbury Games, Main Quests are plot points in our narrative arc, meaning that anything that is not related to the main story of the game can not be considered one.
 
-To expand on the matter, Main Quests normally tell the story of a character -who tends to be the player's-. They can be used to reach points in the narrative arc (Points of Interest) determined by the protagonist’s transformation; often following the [Hero’s Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) in RPG’s.
+To expand on the subject, Main Quests normally tell the story of a character -who tends to be the player's-. They can be used to reach points in the narrative arc (Points of Interest) determined by the protagonist’s transformation; often following the [Hero’s Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) in RPG’s.
 Main Quests start at the early stages of the game, introducing the main story, and develop it as the player progresses, showcasing it from beginning to end.
 
 ### Definition of Side Quest
