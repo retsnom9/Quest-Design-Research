@@ -110,7 +110,17 @@ If we can control tension, we can control our player's perception and emotions. 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_5.jpg?raw=true" alt="Error loading img"><br>
 _Figure 3. Star Wars' Pacing Graph. Image source [here](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)_
 
-The reasoning behind letting your players "rest" between peaks is because we humans are more likely to remember the scenes where the tension is at its lowest, and the ones where it's at its highest.
+The reasoning behind letting your players "rest" between peaks is because we humans are more likely to remember the scenes where the tension is at its lowest, and the ones where it's at its highest. Take _Portal_ as an example. Just after pressing the "play" button, the tension is really low, since nothing has happened yet, and there's a calm music that helps you stay relaxed. This is one of the reasons why everyone remembers _Portal_'s first room.
+
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_3.jpg?raw=true" alt="Error loading img"><br>
+_Figure 4. Portal's screenshot. Valve Corporation (2007)_
+
+After solving some rooms, the escape sequence comes in. In this part of the game, the music and scenario completely change, and almost every single element shown is new to the player, which increases the tension, driving them towards the climax, where they'll fight GLaDOS, and finally ease all the tension.
+
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_4.jpg?raw=true" alt="Error loading img"><br>
+_Figure 5. Portal's screenshot. Valve Corporation (2007)_
+
+We can see with this simple example how, even if we don't necessarily remember all the chambers and scenes from _Portal_, the developers made sure we kept in mind the most important elements of their story.
 
 ### Pacing Graphs
 
