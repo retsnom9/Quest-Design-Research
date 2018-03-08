@@ -82,7 +82,7 @@ As an example, main quests can just direct the player from one place to another.
 
 If you have a villain, do not use it to create quests. **Use your main character, or hero, instead.** Evaluate what scenarios you need in order to produce certain changes in your hero, and then how to use the villain to create those scenarios and draw the story to those Points of Interest, in a way that feels natural. This is why the villain is a powerful tool, and its proper use will tend to result in a stronger narrative.
 
-If you want to branch a quest, without it modifying the whole story development, **make the different paths meet at the next Point of Interest in some way.** To make the player percieve their decision as meaningful, you can use further references to their choice of path later in the story, and even modify the ending of your game based on their choices. With that, we can avoid making incredibly complex story developement options, with mutliple and completely different branches, which can take a lot of time and resources we may or may not dispose of. This can also apply to Side Quests, but smaller Side Quests can have two or more distinct approaches at the same time, without having any point in common, while not requiring that big of a cost.
+If you want to branch a quest, without it modifying the whole story development, **make the different paths meet at the next Point of Interest in some way.** To make the player percieve their decision as meaningful, you can use further references to their choice of path later in the story, and even modify the ending of your game based on their choices, which also negates the possibility of replaying a small segment of the story just because they didn't like the percussion of the action they took just after saving the game. With that, we can avoid making incredibly complex story developement options, with mutliple and completely different branches, which can take a lot of time and resources we may or may not dispose of. This can also apply to Side Quests, but smaller Side Quests can have two or more distinct approaches at the same time, without having any point in common, while not requiring that big of a cost.
 
 ### Aspects to Keep in Mind in Side Quests
 In most Side Quests, you should **define well stated rewards.** The player should know what they're getting after finishing your quest, so that they can estimate what the effort-payoff difference might be. If you do not state the rewards, or don't specify them a lot, you will be making an agreement with the player. If they enjoy your quest, and feel that the reward is fair, there won't be any complains. However, if they do not enjoy it, or if they consider the reward not valuable enough to compensate for their actions, they will feel betrayed, since not only they won't have been provided with proper content, but they won't have recieved an adequate reward to "compensate" for it either. This can affect their immersion, their initial perception in future quests and, most importantly, their general experience, so we must be really careful with that.
@@ -122,7 +122,17 @@ _Figure 5. Portal's screenshot. Valve Corporation (2007)_
 
 We can see with this simple example how, even if we don't necessarily remember all the chambers and scenes from _Portal_, the developers made sure we kept in mind the most important elements of their story.
 
+It's important to note, however, that **we are making games, not films.** In a film, you can assume that the spectators will watch it in one sit 90% of the time. When it comes to games, it's a different story. Some players will play 4 hours sesions, and some of them 15 minute ones. If we are basing our quest on the tension aspect, and our player saves the game and leaves at a high pick, the whole experience will have been ruined the next time they play, since all the built-up tension won't be there anymore. There are two ways to solve this:
+
+**Making shorter quests:** you can make quests that don't take too long to play, so that you can almost guarantee the player will play them in one sit.
+
+**Hooking the player up:** if your quest is good enough, players will want to keep playing it, and won't leave until they have finished it entirely, or until they reach a really low tension point, where the experience won't be ruined next time they play.
+
+Last but not least, we can add tension by making the player guess aspects from our story. If they try to deduce what our characters are going to do, or what they did in the past, they will feel much more involved and immersed in the story. Nevertheless, if our story developement is too obvious, and players can correctly guess what is going to happen every time, the story won't be interesting to them anymore and immersion will be broken.
+
 ### Pacing Graphs
+
+
 
 ## Bibliography
 ### Articles
