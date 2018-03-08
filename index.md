@@ -164,7 +164,7 @@ Just to exemplify it, if we wanted to add choices to our quest, let's say we let
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_10.jpg?raw=true" alt="Error loading img"><br>
 
 ## MMORPGs
-_“Most MMO quests are used to direct the player through the experience rather than being engaging by themselves.”_ Dan from [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - [Why Many MMOs Rely on Repetitive Grind Quests](https://youtu.be/otAkP5VjIv8).
+_“Most MMO quests are used to direct the player through the experience rather than being engaging by themselves.”_ Daniel Floyd, from [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - [Why Many MMOs Rely on Repetitive Grind Quests](https://youtu.be/otAkP5VjIv8).
 
 _"At the end of the day our goal is for the player to remain immersed in their world. Comprehensible motivations, people leading their own lives, decisions bearing consequences and of course gripping stories are the most important tools of a Quest Designer to reach that goal."_ Philipp Weber - Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_ (2014).
 
