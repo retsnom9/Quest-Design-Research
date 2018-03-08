@@ -11,7 +11,7 @@ subject Project 2, under supervision of lecturer
 ## Introduction
 _"Quests are about action that is meaningful to a player on the level of ideas, personal ambitions, benefit to society and/or spiritual authenticity."_ Jeff Howard - Quests: Design, Theory, and History in Games and Narratives (2008).
 
-_“Quests are this place in a video game where game design, gaming and technology all come together.”_ Jeszek Szczepanski - _Building Non-Linear Narratives in Horizon: Zero Dawn_ (GDC 2017).
+_“Quests are this place in a video game where game design, gaming and technology all come together.”_ Jeszek Szczepanski - [_Building Non-Linear Narratives in Horizon: Zero Dawn_ (GDC 2017)](https://youtu.be/ykPZcG8_mPU).
 
 Whether they are a minor feature of a game or a vital one, quests must be properly developed in order to keep -and, hopefully, reinforce- players' feeling of immersion. An important amount of games tend to have a poor approach to Quest Design, due to a low amount of resources being put into it, which can make the whole product fall flat. Games that invest a high amount of resources in their questing aspect, on the other hand, normally have a noticable success because of it (e.g., _The Witcher 3_).
 
@@ -162,6 +162,9 @@ The Pace Graph would roughly look like this:
 Just to exemplify it, if we wanted to add choices to our quest, let's say we let our player choose whether to reconciliate with the protagonist's friend or not, but still get to an overcome where he sacrifices himself and shows his good intentions, it would look like this:
 
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_10.jpg?raw=true" alt="Error loading img"><br>
+
+## MMORPGs
+_“Most MMO quests are used to direct the player through the experience rather than being engaging by themselves.”_ Dan from [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - [Why Many MMOs Rely on Repetitive Grind Quests](https://youtu.be/otAkP5VjIv8).
 
 _"At the end of the day our goal is for the player to remain immersed in their world. Comprehensible motivations, people leading their own lives, decisions bearing consequences and of course gripping stories are the most important tools of a Quest Designer to reach that goal."_ Philipp Weber - Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_ (2014).
 
