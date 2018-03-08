@@ -1,4 +1,4 @@
-# An Approach to Meaningful Quest Design.
+# An Approach to Meaningful Quest Design
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_1.jpg?raw=true" alt="Error loading img"><br>
 _Figure 1. Dragon Quest XI's screenshot. Square Enix (2017)_
 ## About the author
@@ -105,7 +105,12 @@ Now that we know what quests are and how they have to be, we can dig into how to
 One of the best tools to ensure control over our player's feelings and emotions, if used properly, is the pacing graph. Pacing is used not only in Quest/Narrative Design, but also in Cinematographic Narrative and videogame Level Design. Before explaining it, though, we need to know about tension.
 
 ### Tension
-If we can control tension, we can control our player's perception and emotions. We want tension in our game to vary. It shouldn't be always increasing
+If we can control tension, we can control our player's perception and emotions. We want tension in our game to vary. It shouldn't be always increasing, we need slopes between every peak, so that our player has time to breath, relax and assimilate what just happened before jumping back to action. Here's an example from _Star Wars_:
+
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_5.jpg?raw=true" alt="Error loading img"><br>
+_Figure 3. Star Wars' Pacing Graph. Image source [here](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)_
+
+The reasoning behind letting your players "rest" between peaks is because we humans are more likely to remember the scenes where the tension is at its lowest, and the ones where it's at its highest.
 
 ### Pacing Graphs
 
