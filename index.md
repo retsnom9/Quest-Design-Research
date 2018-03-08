@@ -179,7 +179,7 @@ What makes MMOs special is their huge variety of content; and quests are only on
 
 **Separating the world in multiple zones.** _World of Warcraft_ does that beautifully. Since we are talking about multiplayer games, we can't modify the world that surrounds a level 6 character just because a level 110 one just defeated the final boss of the expansion; unless we make different zones, that is. There is only so much you can modify from the "base world", but you can do whatever you want with dungeons, instances and other higher level continents or worlds. Since our intentions are not to make our player feel like a hero, but rather be one, big and relevant changes in the huge world that surrounds them are some of the best rewards we can provide them.
 
-<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_1.jpg?raw=true" alt="Error loading img"><br>
+<br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_11.jpg?raw=true" alt="Error loading img"><br>
 _Figure 11. World of Warcraft: Warlords of Draenor's screenshot. Blizzard (2004)_
 
 _"At the end of the day our goal is for the player to remain immersed in their world. Comprehensible motivations, people leading their own lives, decisions bearing consequences and of course gripping stories are the most important tools of a Quest Designer to reach that goal."_ Philipp Weber - Making Cames Classics: Quest Design in _The Witcher 3: Wild Hunt_ (2014).
