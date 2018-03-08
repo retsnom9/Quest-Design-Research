@@ -122,7 +122,7 @@ _Figure 5. Portal's screenshot. Valve Corporation (2007)_
 
 We can see with this simple example how, even if we don't necessarily remember all the chambers and scenes from _Portal_, the developers made sure we kept in mind the most important elements of their story.
 
-It's important to note, however, that **we are making games, not films.** In a film, you can assume that the spectators will watch it in one sit 90% of the time. When it comes to games, it's a different story. Some players will play 4 hours sesions, and some of them 15 minute ones. If we are basing our quest on the tension aspect, and our player saves the game and leaves at a high pick, the whole experience will have been ruined the next time they play, since all the built-up tension won't be there anymore. There are two ways to solve this:
+It's important to note, however, that **we are making games, not films.** In a film, you can assume that the spectators will watch it in one sit 90% of the time. When it comes to games, it's a different story. Some players will play 4 hours sessions, and some of them 15 minute ones. If we are basing our quest on the tension aspect, and our player saves the game and leaves at a high peak, the whole experience will have been ruined the next time they play, since all the built-up tension won't be there anymore. There are two ways to solve this:
 
 **Making shorter quests:** you can make quests that don't take too long to play, so that you can almost guarantee the player will play them in one sit.
 
