@@ -44,7 +44,7 @@ A quest **must...**
 
 **... convey a story.** It has to transmit a series of feelings and sensations, to make the previously mentioned connection easier, while narrating the facts that made that one village be what it is today, or explain what happened between these two brothers for them to be fighting to death now.
 
-**... be immersive.** The player is not listening to a story, nor reading one. They are intervening and taking part in it. They must feel as an important piece of the tale, that carries it on and changes the curse of it depending on their decisions. If the players think that they don't take any part in the quest's narration, they won't relate to it nor its characters, and we'll have failed on its design.
+**... be immersive and interactive.** The player is not listening to a story, nor reading one. They are intervening and taking part in it. They must feel as an important piece of the tale, that carries it on and changes the curse of it depending on their decisions. If the players think that they don't take any part in the quest's narration, they won't relate to it nor its characters, and we'll have failed on its design.
 
 ## Basic Quest Categories
 Quests can normally be casified in 4 different types:
