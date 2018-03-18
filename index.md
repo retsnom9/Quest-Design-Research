@@ -1,5 +1,4 @@
 # An Approach to Meaningful Quest Design
-![](https://github.com/AngryFrogDev/Dungeon-Brawler/blob/gh-pages/images/wiki/GDD%20Gifs/Gif_1.gif)
 <br><img src="https://github.com/retsnom9/Quest-Design-Research/blob/master/assets/image_1.jpg?raw=true" alt="Error loading img"><br>
 _Figure 1. Dragon Quest XI's screenshot. Square Enix (2017)_
 ## About the author
