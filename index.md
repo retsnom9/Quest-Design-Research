@@ -53,7 +53,7 @@ Quests can normally be casified in 4 different types:
 
 **Fetch/Gather Quests:** "bring me 5 rat tails" kind of quest.
 
-**Delivery Quests:** bring a package from a Non-Playable Character (NPC) to another. Could be considered as a variant of fetch quests.
+**Delivery Quests:** bring a package from a Non-Player Character (NPC) to another. Could be considered as a variant of fetch quests.
 
 **Escort Quests:** Protect an NPC on their way to X place.
 
